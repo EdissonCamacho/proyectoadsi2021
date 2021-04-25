@@ -1,6 +1,6 @@
 <div class="jumbotron">
 <span class="label-defaul">
-<h1 id="titulo">Calculadora Basica</h1> <br> <br>
+<h1 id="titulo">Calculadoras Basicas</h1> <br> <br>
 
 <h3 id="texto">Esta calculadora le ayudará a realizar operaciones basicas matematicas entre dos numeros. </h3>
 
